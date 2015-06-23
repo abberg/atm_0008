@@ -10,6 +10,6 @@ Colored Box cloud, random walk.
 
 [Cardboard Cloud installation by Fantastic Norway](http://www.dezeen.com/2009/06/22/cardboard-cloud-installation-by-fantastic-norway/)
 
-![random walk](https://commons.wikimedia.org/wiki/File:Walk3d_0.png#/media/File:Walk3d_0.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Walk3d_0.png" alt="Walk3d 0.png">
 
-[Random Walk](https://commons.wikimedia.org/wiki/File:Walk3d_0.png#/media/File:Walk3d_0.png)
+[Random Walk](https://en.wikipedia.org/wiki/Random_walk)
