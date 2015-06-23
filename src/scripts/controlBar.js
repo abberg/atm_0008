@@ -6,7 +6,7 @@
 			el,
 			hideTimeoutId,
 			stepTimeoutId,
-			recordFrameDuration = 1000/15, // 15fps
+			recordFrameDuration = 1000/12, // 12fps
 			recordLoop = ab.gameLoop({timestep: recordFrameDuration}),
 			canvasCopy = document.createElement("canvas"),
   			copyContext = canvasCopy.getContext("2d"),
